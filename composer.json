@@ -5,12 +5,12 @@
     "keywords": [
         "Laravel", "Visits", "Counter", "Package",  "Redis",  "Cache",  "Php"
     ],
-    "homepage": "https://github.com/awssat/laravel-visits",
+    "homepage": "https://github.com/exaui/laravel-visits",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bader Almutairi",
-            "email": "bderemail@gmail.com"
+            "name": "cleveng",
+            "email": "cleveng@gmail.com"
         }
     ],
     "require": {
